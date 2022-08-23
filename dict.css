@@ -1,0 +1,79 @@
+.dictionary
+		{
+			margin-bottom: 5px;
+		}
+		#press input
+		{
+			height:30px;
+			width:523px;
+			border:none;
+
+		}
+		#press button
+		{
+			height:36px;
+			background: none;
+			border:none;
+
+		}
+		#press
+		{
+			border:1px solid #70757a;
+			width:575px;
+			border-radius:5px;
+			margin-top: 10px;
+		}
+		
+		
+		.drop
+		{
+			display: flex;
+			padding-bottom: 10px;
+		}
+		.dropi
+		{
+			display: flex;
+			margin-left: 193px;	
+		}
+		.sel
+		{
+			background: none;
+			border:none;
+		}
+		input[type=text]:focus{
+  				outline-color: #3385ff;  
+  				outline:2px;   
+		}
+		.speaker
+		{
+			display: flex;
+			align-items: center;
+			padding-top: 10px;
+
+
+		}
+		.fas
+		{
+			color :#1a73e8;
+			
+		}
+		#print1
+		{
+			font-size: 28px;
+			padding-left: 10px;
+
+		}
+		.volume
+		{
+			background-color: white;
+			border:grey;
+			border-radius: 50%;
+			border-style: solid;
+			border-width:0.5px;
+			width:25px;	
+			height:25px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+		
